@@ -1,5 +1,4 @@
-def parrot (Squawk!)
-return Squawk!
-end 
-returned_value = Squawk!
-puts returned_value
+def parrot (string = "Squawk!")
+puts "#{string}"
+"#{string}"
+end
