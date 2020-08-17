@@ -1,3 +1,3 @@
 def parrot (Squawk!)
-return 
+return Squawk
 end 
